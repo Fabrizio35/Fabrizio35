@@ -23,7 +23,8 @@ También tengo conocimientos en Git, Gitflow y Github para el control de version
 
 Me considero una persona proactiva, capaz de adaptarme a espacios de desarrollo tanto individual como grupal teniendo la facultad para tomar el control en situaciones que lo requieran, participación y escucha activa, enfocado en los trabajos que se demanden y dispuesto a aceptar todo tipo de consejos, saberes y nuevas ideas. También destaco mi organización, legibilidad y prolijidad a la hora de desarrollar. Desde que decidí adentrarme en el mundo de la programación, generé una pasión por el desarrollo y el aprendizaje continuo de nuevas tecnologías.
 
-Contacto:
+### 📩 Contacto 
+
 * 👨‍💻Github: https://github.com/Fabrizio35
 * 📧 Email: ossolafabrizio@gmail.com
 
