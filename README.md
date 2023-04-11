@@ -1,4 +1,13 @@
-### Hi there 👋
+### Soy Fabrizio Ossola, tengo 20 años, vivo en Salta, Argentina y actualmente soy Desarrollador Web Full Stack formado en el bootcamp de SoyHenry con +800 horas de programación.
+
+Tengo mayor atracción por el desarrollo Frontend, con tecnologías como Javascript, HTML, CSS, React y Redux, pero también tengo conocimientos de Backend con Javascript, ExpressJS, PostgresSQL y Sequelize.
+También tengo conocimientos en Git, Gitflow y Github para el control de versiones, en metodología SCRUM como marco de trabajo para el desarrollo ágil y en manejo de Trello para la organización de tareas.
+
+Me considero una persona proactiva, capaz de adaptarme a espacios de desarrollo tanto individual como grupal teniendo la facultad para tomar el control en situaciones que lo requieran, participación y escucha activa, enfocado en los trabajos que se demanden y dispuesto a aceptar todo tipo de consejos, saberes y nuevas ideas. También destaco mi organización, legibilidad y prolijidad a la hora de desarrollar. Desde que decidí adentrarme en el mundo de la programación, generé una pasión por el desarrollo y el aprendizaje continuo de nuevas tecnologías.
+
+Contacto:
+👨‍💻Github: https://github.com/Fabrizio35
+📧 Email: ossolafabrizio@gmail.com
 
 <!--
 **Fabrizio35/Fabrizio35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
