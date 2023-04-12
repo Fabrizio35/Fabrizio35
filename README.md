@@ -13,7 +13,8 @@ Tengo mayor atracción por el desarrollo Frontend, con tecnologías como:
 
 pero también tengo conocimientos de Backend con:
 * Javascript, 
-* ExpressJS, 
+* Express,
+* Node, 
 * PostgresSQL y 
 * Sequelize.
 
