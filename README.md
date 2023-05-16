@@ -6,13 +6,17 @@ Soy Fabrizio Ossola, tengo 20 años, vivo en Salta, Argentina y actualmente soy 
 
 Tengo mayor atracción por el desarrollo Frontend, con tecnologías como: 
 * Javascript,
+* Typescript
 * HTML,
 * CSS,
 * React,
+* Next
+* Vuew
 * Redux, 
 
 pero también tengo conocimientos de Backend con:
-* Javascript, 
+* Javascript,
+* Typescript 
 * Express,
 * Node, 
 * PostgresSQL y 
