@@ -1,6 +1,6 @@
 ### 🙋 ¿Quién soy? 
 
-Me llamo Fabrizio Ossola, tengo 20 años, vivo en Salta, Argentina y actualmente soy Desarrollador Web Full Stack formado en el bootcamp de SoyHenry con +800 horas de programación.
+Me llamo Fabrizio Ossola, tengo 20 años, vivo en Salta, Argentina y actualmente soy Desarrollador Web Fullstack orientado al Frontend.
 
 ### 🤓 ¿Cuáles son mis conocimientos? 
 
