@@ -9,10 +9,12 @@ Tengo mayor atracción por el desarrollo Frontend, con tecnologías como:
 * Typescript
 * HTML,
 * CSS,
+* Tailwind,
 * React,
-* Next
-* Vuew
-* Redux, 
+* Next,
+* Vue,
+* Redux,
+* Redux Toolkit, 
 
 pero también tengo conocimientos de Backend con:
 * Javascript,
