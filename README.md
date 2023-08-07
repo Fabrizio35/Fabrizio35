@@ -12,7 +12,6 @@ Tengo mayor atracción por el desarrollo Frontend, con tecnologías como:
 * Tailwind,
 * React,
 * Next,
-* Vue,
 * Redux,
 * Redux Toolkit, 
 
