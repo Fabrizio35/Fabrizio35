@@ -1,21 +1,22 @@
-### 🙋 ¿Quién soy? 
+### 🙋 Acerca de mi 
 
 Me llamo Fabrizio Ossola, tengo 20 años, vivo en Salta, Argentina y actualmente soy Desarrollador Web Fullstack orientado al Frontend.
 
-### 🤓 ¿Cuáles son mis conocimientos? 
+### 🤓 Habilidades 
 
-Tengo mayor atracción por el desarrollo Frontend, con tecnologías como: 
+👀 Frontend:
 * Javascript,
 * Typescript
 * HTML,
 * CSS,
 * Tailwind,
-* React,
+* Chakra UI,
 * Next,
+* React,
 * Redux,
 * Redux Toolkit, 
 
-pero también tengo conocimientos de Backend con:
+💻 Backend:
 * Javascript,
 * Typescript 
 * Express,
@@ -23,11 +24,12 @@ pero también tengo conocimientos de Backend con:
 * PostgresSQL y 
 * Sequelize.
 
-También tengo conocimientos en Git, Gitflow y Github para el control de versiones, en metodología SCRUM como marco de trabajo para el desarrollo ágil y en manejo de Trello para la organización de tareas.
-
-### 🤔 Acerca de mi 
-
-Me considero una persona proactiva, capaz de adaptarme a espacios de desarrollo tanto individual como grupal teniendo la facultad para tomar el control en situaciones que lo requieran, participación y escucha activa, enfocado en los trabajos que se demanden y dispuesto a aceptar todo tipo de consejos, saberes y nuevas ideas. También destaco mi organización, legibilidad y prolijidad a la hora de desarrollar. Desde que decidí adentrarme en el mundo de la programación, generé una pasión por el desarrollo y el aprendizaje continuo de nuevas tecnologías.
+➕ Mas:
+* Git,
+* Gitflow,
+* Github,
+* SCRUM,
+* Trello
 
 ### 📩 Contacto 
 
