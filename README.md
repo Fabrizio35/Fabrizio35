@@ -33,8 +33,9 @@ Me llamo Fabrizio Ossola, tengo 20 años, vivo en Salta, Argentina y actualmente
 
 ### 📩 Contacto 
 
-* 👨‍💻Github: https://github.com/Fabrizio35
+* 💼 Portfolio: https://fabrizioossola.netlify.app/
 * 📧 Email: ossolafabrizio@gmail.com
+* 👨‍💻 Github: https://github.com/Fabrizio35
 
 <!--
 **Fabrizio35/Fabrizio35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
