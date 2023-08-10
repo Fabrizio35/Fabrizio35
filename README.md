@@ -14,7 +14,8 @@ Me llamo Fabrizio Ossola, tengo 20 años, vivo en Salta, Argentina y actualmente
 * Next,
 * React,
 * Redux,
-* Redux Toolkit 
+* Redux Toolkit,
+* Zustand 
 
 💻 Backend:
 * Javascript,
