@@ -1,42 +1,26 @@
-### 🙋 Acerca de mi 
+### 🙋 About me
 
-Me llamo Fabrizio Ossola, tengo 20 años, vivo en Salta, Argentina y actualmente soy Desarrollador Web Fullstack orientado al Frontend.
+My name is Fabrizio Ossola, I am 20 years old and I am a Frontend-oriented Fullstack Developer
 
-### 🤓 Habilidades 
+### 🤓 Skills 
 
 👀 Frontend:
-* Javascript,
-* Typescript
-* HTML,
-* CSS,
-* Tailwind,
-* Chakra UI,
-* Next,
-* React,
-* Redux,
-* Redux Toolkit,
-* Zustand 
+Javascript | Typescript | Next | React | Redux | Zustand | HTML | CSS | Tailwind | Chakra UI
 
 💻 Backend:
-* Javascript,
-* Typescript 
-* Express,
-* Node, 
-* PostgresSQL, 
-* Sequelize
+Javascript | Typescript | Node | Express | PostgresSQL | Sequelize
 
-➕ Mas:
+➕ More:
 * Git,
 * Gitflow,
-* Github,
 * SCRUM,
 * Trello
 
-### 📩 Contacto 
+### 📩 Contact 
 
 * 💼 Portfolio: https://fabrizioossola.netlify.app/
+* 👨‍💻 Linkedin: https://www.linkedin.com/in/fabrizio-ossola/
 * 📧 Email: ossolafabrizio@gmail.com
-* 👨‍💻 Github: https://github.com/Fabrizio35
 
 <!--
 **Fabrizio35/Fabrizio35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
