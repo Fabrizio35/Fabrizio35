@@ -5,10 +5,10 @@ My name is Fabrizio Ossola, I am 20 years old and I am a Frontend-oriented Fulls
 ### 🤓 Skills 
 
 👀 Frontend:
-Javascript | Typescript | Next | React | Redux | Zustand | HTML | CSS | Tailwind | Chakra UI
+* Javascript | Typescript | Next | React | Redux | Zustand | HTML | CSS | Tailwind | Chakra UI
 
 💻 Backend:
-Javascript | Typescript | Node | Express | PostgresSQL | Sequelize
+* Javascript | Typescript | Node | Express | PostgresSQL | Sequelize
 
 ➕ More:
 * Git,
