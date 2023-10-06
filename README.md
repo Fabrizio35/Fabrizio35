@@ -1,8 +1,8 @@
-### 🙋 About me
+## 🙋 About me
 
 My name is Fabrizio Ossola, I am 20 years old and I am a Frontend-oriented Fullstack Developer
 
-### 🤓 Skills 
+## 🤓 Skills 
 
 👀 Frontend:
 * Javascript | Typescript | Next | React | Redux | Zustand | HTML | CSS | Tailwind | Chakra UI
@@ -16,7 +16,7 @@ My name is Fabrizio Ossola, I am 20 years old and I am a Frontend-oriented Fulls
 * SCRUM,
 * Trello
 
-### 📩 Contact 
+## 📩 Contact 
 
 * 💼 Portfolio: https://fabrizioossola.netlify.app/
 * 👨‍💻 Linkedin: https://www.linkedin.com/in/fabrizio-ossola/
