@@ -5,7 +5,8 @@
 ## 💼 Experiencia laboral
 
 * **Diciembre 2023 - Actualmente**  
-  <u>Frontend Developer Junior - Synergiart SL</u>  
+  Frontend Developer Junior - Synergiart SL
+  <br />
   Encargado de desarrollar código Frontend en base al diseño UI/UX. Conectar con Backend para el consumo de la API. Generar pantallas y componentes 100% personalizados utilizando tecnologías como Typescript, React, Tailwind, Material UI, Zustand.
 
 ## 🙋 Sobre mí
