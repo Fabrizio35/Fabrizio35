@@ -1,38 +1,21 @@
-## 🙋 About me
+### Hola, soy Fabrizio Ossola 👋
 
-My name is Fabrizio Ossola, I am 20 years old and I am a Frontend-oriented Fullstack Developer
++2 años de experiencia. Desarrollador y Programador Fullstack Junior de Salta, Argentina 🇦🇷. Especializado en crear aplicaciones web únicas.
 
-## 🤓 Skills 
+## 💼 Experiencia laboral
 
-👀 Frontend:
-* Javascript | Typescript | Next | React | Redux | Zustand | HTML | CSS | Tailwind | Chakra UI
+* Diciembre 2023 - Actualmente
+  Frontend Developer Junior - Synergiart SL
+  Encargado de desarrollar código Frontend en base al diseño UI/UX. Conectar con Backend para el consumo de la API. Generar pantallas y componentes 100% personalizados utilizando tecnologías como Typescript, React, Tailwind, Material UI, Zustand.
 
-💻 Backend:
-* Javascript | Typescript | Node | Express | PostgresSQL | Sequelize
+## 🙋 Sobre mí
 
-➕ More:
-* Git,
-* Gitflow,
-* SCRUM,
-* Trello
+Me llamo Fabrizio Ossola. Soy Desarrollador Fullstack graduado del bootcamp de SoyHenry. Actualmente estoy trabajando como Desarrollador Frontend en Synergiart SL.
+Me especializo en Desarrollo Frontend con tecnologías como Typescript, Javascript, React, Next.js, Astro, Tailwind, MaterialUI, Redux, Zustand, HTML, CSS, etc, pero también tengo conocimientos de Desarrollo Backend con tencologías como Typescript, Javascript, Node.js, Express, PostgresSQL y Sequelize.
+Además, manejo Git, Trello, y la metodología agile SCRUM.
 
-## 📩 Contact 
+## 📩 Contacto 
 
 * 💼 Portfolio: https://fabrizioossola.netlify.app/
-* 👨‍💻 Linkedin: https://www.linkedin.com/in/fabrizio-ossola/
+* 👨‍💻 LinkedIn: https://www.linkedin.com/in/fabrizio-ossola/
 * 📧 Email: ossolafabrizio@gmail.com
-
-<!--
-**Fabrizio35/Fabrizio35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
