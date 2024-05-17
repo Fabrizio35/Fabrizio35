@@ -1,4 +1,4 @@
-### Hola, soy Fabrizio Ossola 👋
+## Hola, soy Fabrizio Ossola 👋
 
 **+2 años de experiencia**. Desarrollador y Programador Fullstack Junior de Salta, Argentina 🇦🇷. *Especializado en crear aplicaciones web únicas*.
 
