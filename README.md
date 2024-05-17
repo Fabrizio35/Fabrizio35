@@ -11,8 +11,8 @@
 
 ## 🙋 Sobre mí
 
-Me llamo Fabrizio Ossola. Soy Desarrollador Fullstack graduado del bootcamp de SoyHenry. Actualmente estoy trabajando como Desarrollador Frontend en Synergiart SL.  
-Me especializo en Desarrollo Frontend con tecnologías como Typescript, Javascript, React, Next.js, Astro, Tailwind, MaterialUI, Redux, Zustand, HTML, CSS, etc, pero también tengo conocimientos de Desarrollo Backend con tencologías como Typescript, Javascript, Node.js, Express, PostgresSQL y Sequelize.  
+Me llamo Fabrizio Ossola. Soy Desarrollador Fullstack graduado del bootcamp de SoyHenry. **Actualmente estoy trabajando como Desarrollador Frontend en Synergiart SL**.  
+**Me especializo en Desarrollo Frontend** con tecnologías como Typescript, Javascript, React, Next.js, Astro, Tailwind, MaterialUI, Redux, Zustand, HTML, CSS, etc, pero **también tengo conocimientos de Desarrollo Backend** con tencologías como Typescript, Javascript, Node.js, Express, PostgresSQL y Sequelize.  
 Además, manejo Git, Trello, y la metodología agile SCRUM.
 
 ## 📩 Contacto 
