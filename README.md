@@ -1,22 +1,21 @@
-## Hola, soy Fabrizio Ossola 👋
+# Hi, I'm Fabrizio Ossola 👋
 
-**+2 años de experiencia**. Desarrollador y Programador Fullstack de Salta, Argentina 🇦🇷. *Especializado en crear aplicaciones web únicas*.
+Full Stack Developer with a strong focus on Frontend. I’m based in Salta, Argentina, and currently pursuing a degree in Software Development at the National University of Salta to deepen my understanding of how software works.
 
-## 💼 Experiencia laboral
+With over 3 years of experience, I’ve led the frontend development of a social network prototype, built robust landing pages, reusable components, and custom hooks for large-scale projects. I'm proactive, adaptable, and always eager to learn, lead when needed, and collaborate effectively in team environments.
 
-* **Diciembre 2023 - Febrero 2025**  
-  Frontend Developer - Dazlabs
-  
-  Software Factory. Desarrollar pantallas y componentes 100% personalizados. Optimizar y mantener interfaces, elementos Frontend y sitios web. Adaptar aplicaciones web a dispositivos móviles. Consumir la API desarrollada por el equipo backend. Seguir el diseño desarrollado por el equipo UX/UI. Liderar un equipo para desarrollar una red social desde 0.
+## 🛠 Tech Stack
+**Frontend:** TypeScript, JavaScript, React, Next.js, Astro, Tailwind, Material UI, Redux, Zustand, HTML, CSS  
+**Backend:** TypeScript, JavaScript, Node.js, Express, PostgreSQL, Sequelize, Prisma  
+**Tools:** Git, GitHub, GitLab, Gitea, Figma, Trello, ClickUp, Slack, Discord  
+**Methodologies:** SCRUM, Lean Six Sigma
 
-## 🙋 Sobre mí
+---
+<!-- spacing -->
 
-Me llamo Fabrizio Ossola. Soy Desarrollador Fullstack.
-**Me especializo en Desarrollo Frontend** con tecnologías como Typescript, Javascript, React, Next.js, Astro, Tailwind, MaterialUI, Redux, Zustand, HTML, CSS, etc, pero **también tengo conocimientos de Desarrollo Backend** con tencologías como Typescript, Javascript, Node.js, Express, PostgresSQL y Sequelize.  
-Además, manejo Git, Trello, y la metodología agile SCRUM.
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=plastic)](https://www.fabrizioossola.com)  
+[![Email](https://img.shields.io/badge/📧%20Email-Me-red?style=plastic)](mailto:ossolafabrizio@gmail.com)
 
-## 📩 Contacto 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabrizio35&theme=dark)](https://git.io/streak-stats)
 
-* 💼 Portfolio: https://www.fabrizioossola.com/
-* 👨‍💻 LinkedIn: https://www.linkedin.com/in/fabrizio-ossola/
-* 📧 Email: ossolafabrizio@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio35&layout=compact)
