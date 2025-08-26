@@ -13,7 +13,6 @@ With over 3 years of experience, I’ve led the frontend development of a social
 ---
 <!-- spacing -->
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=plastic)](https://www.fabrizioossola.com)  
-[![Email](https://img.shields.io/badge/📧%20Email-Me-red?style=plastic)](mailto:ossolafabrizio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=plastic)](https://www.fabrizioossola.com)  [![Email](https://img.shields.io/badge/📧%20Email-Me-red?style=plastic)](mailto:ossolafabrizio@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio35&layout=compact)
