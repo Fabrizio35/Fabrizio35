@@ -16,6 +16,4 @@ With over 3 years of experience, I’ve led the frontend development of a social
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=plastic)](https://www.fabrizioossola.com)  
 [![Email](https://img.shields.io/badge/📧%20Email-Me-red?style=plastic)](mailto:ossolafabrizio@gmail.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabrizio35&theme=dark)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio35&layout=compact)
